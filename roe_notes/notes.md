@@ -134,7 +134,6 @@ ngrok http http://localhost:8000
 [Reference link](https://github.com/21f3002034/tds_project1/tree/main)[GitHub - 21f3002034/tds_project1](https://github.com/21f3002034/tds_project1/tree/main)
 
 ```python
-
 https://github.com/21f3002034/tds_project1/tree/main# /// script
 # requires-python = ">=3.13"
 # dependencies = [
@@ -209,10 +208,10 @@ def query_gpt(user_input: str) -> Dict[str, Any]:
             {
                 "role": "system",
                 "content": """
-                
+
         You are an assistant capable of executing various tasks.  
         Use the following functions for specific tasks:  
-        
+
         - Use 'script_runner' for running scripts.  
         - Use 'format_file' for formatting files.  
         - Use 'scrape_website_data' for scraping website data.  
@@ -231,16 +230,16 @@ def query_gpt(user_input: str) -> Dict[str, Any]:
         - Use 'log_activity' for logging system activities.  
         - Use 'validate_input' for input validation.  
         - Use 'hash_data' for hashing sensitive data.  
-        
+
         Always return relative paths for system directory locations.         Example: Use './data/<file>' instead of '/data/<file>'.  
-    
+
                 """
             }
         ],
         "tools": tools,
         "tool_choice": "auto",
     }
-    
+
     try:
         response = requests.post(url, headers=headers, json=data)
         response.raise_for_status()
@@ -248,3 +247,5 @@ def query_gpt(user_input: str) -> Dict[str, Any]:
     except requests.RequestException as e:
         raise HTTPException(status_code=500, detail=f"GPT query failed: {str(e)}")
 ```
+
+![](C:\Users\ksrag\AppData\Roaming\marktext\images\2025-03-01-14-04-41-image.png)
