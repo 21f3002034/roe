@@ -1,0 +1,32 @@
+[project]
+name = "roe"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "bs4>=0.0.2",
+    "datetime>=5.5",
+    "duckdb>=1.2.0",
+    "fastapi>=0.115.9",
+    "flask>=3.1.0",
+    "gitpython>=3.1.44",
+    "haversine>=2.9.0",
+    "ipykernel>=6.29.5",
+    "lxml>=5.3.1",
+    "markdown>=3.7",
+    "numpy>=2.2.3",
+    "openai>=1.65.1",
+    "pandas>=2.2.3",
+    "pathlib>=1.0.1",
+    "pillow>=11.1.0",
+    "pytesseract>=0.3.13",
+    "python-dateutil>=2.9.0.post0",
+    "python-multipart>=0.0.20",
+    "requests>=2.32.3",
+    "scipy>=1.15.2",
+    "sentence-transformers>=3.4.1",
+    "speechrecognition>=3.14.1",
+    "uvicorn>=0.34.0",
+    "xlsxwriter>=3.2.2",
+]
