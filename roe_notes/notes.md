@@ -1,4 +1,5 @@
 # GIT STARTING
+
 ```bash
 git config --global user.name "21f3002034"
 
@@ -10,15 +11,61 @@ git checkout -b main
 
 git remote add origin https://github.com/21f3002034/roe.git
 ```
+
 # when GIT on Error
+
 ```bash
 git clone https://github.com/21f3002034/roe.git
 
 git pull origin main --allow-unrelated-histories
+```
+
+# clear git history
+
+```powershell
+cmdkey /delete:git:https://github.com
+#for linux echo url=https://github.com | git credential reject
+
+git push -u origin main
+git branch
+git branch -m master main
+git checkout -b main
+git add .
+git commit -m "Initial commit"
+
+git push -u origin main
+git config --global user.name
+git config --global user.email
+git config --global user.name "YourGitHubUsername"
+git config --global user.email "your-email@example.com"
+cmdkey /delete:git:https://github.com
+git push -u origin main
+
+
+#Go to GitHub → Settings → Developer settings → Personal access tokens
+#👉 GitHub PAT Generator
+#Click Generate new token (Choose "classic" if available).
+#Select repo permissions.
+#Copy the generated token.
+#Now, use this token when Git asks for a password.
+
+
+git pull --rebase origin main
+git add .
+git rebase --continue
+git push -u origin main
+
+git push -u origin main
+git push --force origin main
+
+git pull --rebase origin main
+git push -u origin main
+
 
 ```
 
 # PODMAN
+
 ```powershell
 # building new docker image
 podman build -t tds_project_final .
@@ -48,7 +95,9 @@ podman rm 661f5bf70fe0
 docker push b0aaad927709 raghuvasanth/ds_project1_docker:tagname
 podman pull raghuvasanth/ds_project1_docker:tagname
 ```
+
 # running app with token
+
 ```powershell
 uv run app.py AIPROXY_TOKEN='eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIxZjMwMDIwMzRAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.KEQjxQbjAIHY8_0l-WpiOL_KrBslnPTFZnexib9N6qc'
 uv run app.py AIPROXY_TOKEN=$AIPROXY_TOKEN
@@ -58,11 +107,11 @@ uv run EVAL.py --email 21f3002034@ds.study.iitm.ac.in
 export AIPROXY_TOKEN="eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIxZjMwMDIwMzRAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.KEQjxQbjAIHY8_0l-WpiOL_KrBslnPTFZnexib9N6qc"
 uvicorn app:app --host localhost --port 8000 --reload AIPROXY_TOKEN=$AIPROXY_TOKEN
 
->https://github.com/21f3002034/tds_project1
->raghuvasanth/tds_project1_docker:v1
-
+> https://github.com/21f3002034/tds_project1
+> raghuvasanth/tds_project1_docker:v1
 
 # Docker Hub
+
 ```powershell
 podman login docker.io
 podman tag <IMAGE_ID> docker.io/<YOUR_DOCKER_USERNAME>/<IMAGE_NAME>:<TAG>
@@ -70,4 +119,5 @@ podman push docker.io/<YOUR_DOCKER_USERNAME>/<IMAGE_NAME>:<TAG>
 podman tag e43f066c0ba0 docker.io/raghuvasanth/tds_project1_docker:final
 podman push docker.io/raghuvasanth/tds_project1_docker:final
 ```
+
 git push --force origin main
