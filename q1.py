@@ -29,3 +29,4 @@ for file in html_files:
 total_sales = round(total_sales, 2)
 
 print(f"Total sales for 'Gold' ticket type: {total_sales}")
+

@@ -60,8 +60,6 @@ git push --force origin main
 
 git pull --rebase origin main
 git push -u origin main
-
-
 ```
 
 # PODMAN
@@ -120,4 +118,133 @@ podman tag e43f066c0ba0 docker.io/raghuvasanth/tds_project1_docker:final
 podman push docker.io/raghuvasanth/tds_project1_docker:final
 ```
 
-git push --force origin main
+# ngrok
+
+open ngrok.exe then enter below 
+
+```powershell
+ngrok config add-authtoken 2sMCnqP6qX4UdkP68YRTaK1Jd1m_Gk5FsHaFTj8fKC5iEMao
+
+#before start the local server
+ngrok http http://localhost:8000
+```
+
+# fast api setup
+
+[Reference link](https://github.com/21f3002034/tds_project1/tree/main)[GitHub - 21f3002034/tds_project1](https://github.com/21f3002034/tds_project1/tree/main)
+
+```python
+
+https://github.com/21f3002034/tds_project1/tree/main# /// script
+# requires-python = ">=3.13"
+# dependencies = [
+#       "flask",
+#      "fastapi",
+#      "uvicorn", 
+#      "requests",
+#      "pathlib",
+#       "datetime",
+#       "openai",
+#       "pytesseract",
+#       "numpy",
+#       "pillow",
+#       "sentence_transformers",
+#       "scipy",
+#      "pandas",
+#       "markdown",
+#   "SpeechRecognition",
+#   "gitpython",
+#   "python-multipart",
+#   "duckdb",
+#   "python-dateutil"
+#   
+# ]
+# ///
+import duckdb
+import git
+from fastapi import FastAPI, HTTPException, UploadFile, File, Query
+from fastapi.middleware.cors import CORSMiddleware
+import uvicorn
+import requests
+import os
+import subprocess
+import json
+from typing import Dict, Any, List
+from pathlib import Path
+from datetime import datetime
+import pytesseract
+from PIL import Image
+import shutil
+import duckdb
+import markdown
+import json
+import speech_recognition as sr
+
+
+app = FastAPI()
+
+# CORS Middleware Configuration
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["GET", "POST"],
+    allow_headers=["*"],
+)
+
+
+
+def query_gpt(user_input: str) -> Dict[str, Any]:
+    url = "https://aiproxy.sanand.workers.dev/openai/v1/chat/completions"                    
+    AIPROXY_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIxZjMwMDIwMzRAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.KEQjxQbjAIHY8_0l-WpiOL_KrBslnPTFZnexib9N6qc""
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {AIPROXY_TOKEN}"
+    }
+
+    data = {
+        "model": "gpt-4o-mini",
+        "messages": [
+            {"role": "user", "content": user_input},
+            {
+                "role": "system",
+                "content": """
+                
+        You are an assistant capable of executing various tasks.  
+        Use the following functions for specific tasks:  
+        
+        - Use 'script_runner' for running scripts.  
+        - Use 'format_file' for formatting files.  
+        - Use 'scrape_website_data' for scraping website data.  
+        - Use 'process_csv' for handling CSV file operations.  
+        - Use 'generate_report' for creating reports.  
+        - Use 'parse_json' for parsing JSON data.  
+        - Use 'extract_text' for extracting text from documents.  
+        - Use 'translate_text' for translating text between languages.  
+        - Use 'analyze_sentiment' for performing sentiment analysis.  
+        - Use 'compress_file' for compressing files.  
+        - Use 'resize_image' for resizing images.  
+        - Use 'convert_audio' for converting audio formats.  
+        - Use 'fetch_api_data' for fetching data from APIs.  
+        - Use 'execute_sql' for running SQL queries.  
+        - Use 'send_email' for sending emails.  
+        - Use 'log_activity' for logging system activities.  
+        - Use 'validate_input' for input validation.  
+        - Use 'hash_data' for hashing sensitive data.  
+        
+        Always return relative paths for system directory locations.         Example: Use './data/<file>' instead of '/data/<file>'.  
+    
+                """
+            }
+        ],
+        "tools": tools,
+        "tool_choice": "auto",
+    }
+    
+    try:
+        response = requests.post(url, headers=headers, json=data)
+        response.raise_for_status()
+        return response.json()
+    except requests.RequestException as e:
+        raise HTTPException(status_code=500, detail=f"GPT query failed: {str(e)}")
+```
