@@ -1,0 +1,806 @@
+business_id,date,description,score,postal_code
+45,2013-12-09,Moderate risk food holding temperature,94,94110
+45,2016-06-14,Unapproved or unmaintained equipment or utensils,84,94110
+45,2016-06-14,Moderate risk vermin infestation,84,94110
+95,2016-07-18,Moderate risk vermin infestation,86,94110
+95,2016-07-18,Unapproved or unmaintained equipment or utensils,86,94110
+95,2015-12-10,Moderate risk vermin infestation,88,94110
+95,2014-05-06,Unapproved or unmaintained equipment or utensils,86,94110
+95,2014-05-06,Insufficient hot water or running water,86,94110
+180,2016-01-06,Inadequate and inaccessible handwashing facilities,88,94110
+180,2016-01-06,Moderate risk food holding temperature,88,94110
+217,2016-09-12,Moderate risk food holding temperature,90,94110
+217,2014-06-24,Inadequate warewashing facilities or equipment,94,94110
+217,2016-03-29,Unapproved or unmaintained equipment or utensils,94,94110
+384,2014-05-06,Inadequate warewashing facilities or equipment,88,94110
+386,2014-10-24,Moderate risk vermin infestation,83,94110
+386,2016-01-27,Inadequate and inaccessible handwashing facilities,90,94110
+386,2014-04-24,Moderate risk vermin infestation,90,94110
+386,2016-04-29,Inadequate and inaccessible handwashing facilities,82,94110
+386,2016-04-29,Unapproved or unmaintained equipment or utensils,82,94110
+386,2016-04-29,Inadequate or unsanitary refuse containers or area or no garbage service,82,94110
+580,2016-08-29,Inadequate and inaccessible handwashing facilities,92,94110
+580,2014-08-11,Moderate risk food holding temperature,96,94110
+580,2016-03-11,Unapproved or unmaintained equipment or utensils,91,94110
+580,2014-01-29,Inadequate warewashing facilities or equipment,96,94110
+821,2016-06-06,Inadequate and inaccessible handwashing facilities,85,94110
+821,2016-06-06,Unapproved or unmaintained equipment or utensils,85,94110
+856,2014-07-29,Moderate risk food holding temperature,96,94110
+856,2014-01-09,Moderate risk food holding temperature,94,94110
+856,2016-07-07,Inadequate and inaccessible handwashing facilities,94,94110
+929,2014-06-03,Unapproved or unmaintained equipment or utensils,92,94110
+929,2014-06-03,Moderate risk food holding temperature,92,94110
+929,2016-06-22,Unapproved or unmaintained equipment or utensils,98,94110
+1000,2016-09-19,Unclean unmaintained or improperly constructed toilet facilities,81,94110
+1002,2016-09-29,Moderate risk food holding temperature,90,94110
+1002,2016-02-17,Unclean unmaintained or improperly constructed toilet facilities,90,94110
+1002,2016-02-17,Moderate risk food holding temperature,90,94110
+1002,2014-04-02,Inadequate and inaccessible handwashing facilities,94,94110
+1003,2016-07-06,Unapproved or unmaintained equipment or utensils,88,94110
+1005,2014-11-14,Moderate risk food holding temperature,81,94110
+1005,2014-03-03,Inadequate or unsanitary refuse containers or area or no garbage service,85,94110
+1005,2016-05-02,Moderate risk vermin infestation,84,94110
+1065,2014-07-16,Unapproved or unmaintained equipment or utensils,89,94110
+1065,2013-11-12,Moderate risk food holding temperature,94,94110
+1243,2014-07-29,Inadequate warewashing facilities or equipment,92,94110
+1243,2014-01-23,Unapproved or unmaintained equipment or utensils,92,94110
+1249,2014-06-09,Moderate risk vermin infestation,89,94110
+1249,2016-02-16,Inadequate and inaccessible handwashing facilities,83,94110
+1249,2014-01-08,Moderate risk food holding temperature,90,94110
+1282,2015-06-02,Moderate risk food holding temperature,92,94110
+1282,2015-12-23,Moderate risk vermin infestation,96,94110
+1337,2014-08-28,Inadequate and inaccessible handwashing facilities,80,94110
+1337,2016-01-07,Unapproved or unmaintained equipment or utensils,88,94110
+1584,2016-08-18,Inadequate and inaccessible handwashing facilities,86,94110
+1584,2015-03-25,Moderate risk vermin infestation,83,94110
+1753,2015-01-12,Moderate risk vermin infestation,88,94110
+1753,2014-03-04,Moderate risk vermin infestation,90,94110
+1753,2016-06-07,Inadequate and inaccessible handwashing facilities,88,94110
+1792,2016-06-03,Moderate risk vermin infestation,90,94110
+1797,2013-11-26,Moderate risk food holding temperature,84,94110
+1797,2016-07-05,Moderate risk vermin infestation,90,94110
+1811,2014-08-19,Moderate risk food holding temperature,96,94110
+2266,2015-12-02,Moderate risk food holding temperature,88,94110
+2266,2015-12-02,Inadequate and inaccessible handwashing facilities,88,94110
+2266,2016-03-16,Unapproved or unmaintained equipment or utensils,94,94110
+2266,2016-03-16,Inadequate and inaccessible handwashing facilities,94,94110
+2266,2013-10-11,Moderate risk food holding temperature,90,94110
+2318,2014-03-12,Moderate risk food holding temperature,92,94110
+2318,2014-03-12,Inadequate and inaccessible handwashing facilities,92,94110
+2334,2014-09-25,Moderate risk food holding temperature,81,94110
+2334,2016-01-05,Moderate risk food holding temperature,90,94110
+2337,2015-05-04,Moderate risk vermin infestation,89,94110
+2337,2016-02-10,Moderate risk food holding temperature,86,94110
+2337,2014-01-06,Inadequate or unsanitary refuse containers or area or no garbage service,82,94110
+2352,2015-03-03,Unapproved or unmaintained equipment or utensils,94,94110
+2352,2014-04-21,Moderate risk vermin infestation,92,94110
+2356,2015-01-26,Inadequate and inaccessible handwashing facilities,87,94110
+2356,2016-03-10,Moderate risk food holding temperature,88,94110
+2357,2016-09-27,Unclean or unsanitary food contact surfaces,86,94110
+2357,2015-01-12,Moderate risk food holding temperature,85,94110
+2358,2015-09-02,Moderate risk food holding temperature,85,94110
+2358,2014-02-03,Moderate risk food holding temperature,90,94110
+2359,2015-02-02,Other moderate risk violation,90,94110
+2360,2014-07-30,Unclean or unsanitary food contact surfaces,80,94110
+2360,2015-07-13,Moderate risk food holding temperature,92,94110
+2363,2014-03-27,Moderate risk vermin infestation,96,94110
+2369,2014-08-21,Inadequate and inaccessible handwashing facilities,90,94110
+2369,2014-08-21,Inadequate warewashing facilities or equipment,90,94110
+2369,2016-03-24,Moderate risk food holding temperature,86,94110
+2369,2016-03-24,Inadequate and inaccessible handwashing facilities,86,94110
+2418,2015-04-20,Inadequate and inaccessible handwashing facilities,82,94110
+2418,2015-04-20,Moderate risk food holding temperature,82,94110
+2418,2016-01-13,Moderate risk vermin infestation,86,94110
+2420,2015-07-27,Inadequate and inaccessible handwashing facilities,85,94110
+2420,2016-02-01,Moderate risk vermin infestation,92,94110
+2420,2016-07-05,Unapproved or unmaintained equipment or utensils,96,94110
+2421,2016-08-22,Moderate risk food holding temperature,90,94110
+2421,2016-01-20,Moderate risk food holding temperature,85,94110
+2421,2014-03-27,Moderate risk food holding temperature,80,94110
+2427,2015-04-27,Moderate risk food holding temperature,88,94110
+2427,2016-01-19,Moderate risk food holding temperature,88,94110
+2428,2016-09-15,Moderate risk vermin infestation,84,94110
+2428,2016-09-15,Inadequate and inaccessible handwashing facilities,84,94110
+2428,2016-01-20,Inadequate and inaccessible handwashing facilities,86,94110
+2428,2016-01-20,Unapproved or unmaintained equipment or utensils,86,94110
+2454,2014-09-24,Moderate risk food holding temperature,92,94110
+2454,2016-05-19,Moderate risk food holding temperature,83,94110
+2454,2016-05-19,Moderate risk vermin infestation,83,94110
+2455,2016-03-17,Inadequate and inaccessible handwashing facilities,94,94110
+2610,2015-01-26,Moderate risk food holding temperature,92,94110
+2610,2015-01-26,Moderate risk vermin infestation,92,94110
+2610,2016-02-10,Inadequate and inaccessible handwashing facilities,94,94110
+2610,2014-04-02,Moderate risk vermin infestation,90,94110
+2610,2014-04-02,Moderate risk food holding temperature,90,94110
+2632,2016-07-29,Unapproved or unmaintained equipment or utensils,90,94110
+2632,2016-07-29,Moderate risk food holding temperature,90,94110
+2632,2014-08-07,Moderate risk food holding temperature,94,94110
+2632,2015-08-19,Moderate risk food holding temperature,94,94110
+2632,2014-02-06,Inadequate warewashing facilities or equipment,88,94110
+2632,2014-02-06,Other moderate risk violation,88,94110
+2645,2014-09-04,Unclean or unsanitary food contact surfaces,91,94110
+2645,2014-01-27,Moderate risk vermin infestation,90,94110
+2646,2015-06-02,Moderate risk vermin infestation,92,94110
+2646,2013-10-11,Moderate risk vermin infestation,89,94110
+2646,2014-04-14,Moderate risk vermin infestation,92,94110
+2648,2015-05-18,Inadequate and inaccessible handwashing facilities,88,94110
+2648,2015-05-18,Moderate risk food holding temperature,88,94110
+2648,2014-02-04,Inadequate or unsanitary refuse containers or area or no garbage service,92,94110
+2648,2014-02-04,Moderate risk food holding temperature,92,94110
+2653,2015-12-07,Unapproved or unmaintained equipment or utensils,90,94110
+2653,2014-05-07,Moderate risk food holding temperature,90,94110
+2653,2016-05-16,Unapproved or unmaintained equipment or utensils,90,94110
+2659,2014-08-25,Unapproved or unmaintained equipment or utensils,83,94110
+2659,2015-12-10,Inadequate and inaccessible handwashing facilities,80,94110
+2659,2015-12-10,Moderate risk food holding temperature,80,94110
+2659,2015-12-10,Unapproved or unmaintained equipment or utensils,80,94110
+2659,2014-01-29,Unapproved or unmaintained equipment or utensils,94,94110
+2689,2015-09-30,Unapproved or unmaintained equipment or utensils,96,94110
+2689,2014-05-28,Unapproved or unmaintained equipment or utensils,92,94110
+2689,2014-05-28,Moderate risk food holding temperature,92,94110
+2690,2014-08-27,Moderate risk food holding temperature,96,94110
+2690,2015-12-07,Unapproved or unmaintained equipment or utensils,94,94110
+2690,2015-12-07,Moderate risk food holding temperature,94,94110
+2690,2014-02-03,Unapproved or unmaintained equipment or utensils,92,94110
+2690,2014-02-03,Moderate risk food holding temperature,92,94110
+2690,2016-05-16,Moderate risk food holding temperature,94,94110
+2749,2014-08-27,Moderate risk vermin infestation,90,94110
+2749,2016-01-04,Unapproved or unmaintained equipment or utensils,92,94110
+2749,2014-01-30,Unapproved or unmaintained equipment or utensils,90,94110
+2978,2014-10-02,Unapproved or unmaintained equipment or utensils,96,94110
+2978,2015-11-05,Inadequate and inaccessible handwashing facilities,94,94110
+2980,2013-10-17,Moderate risk food holding temperature,96,94110
+2980,2014-04-17,Unapproved or unmaintained equipment or utensils,98,94110
+2984,2015-09-29,Moderate risk food holding temperature,96,94110
+3615,2015-01-13,Moderate risk food holding temperature,94,94110
+3616,2014-12-17,Inadequate and inaccessible handwashing facilities,94,94110
+3616,2014-03-19,Moderate risk food holding temperature,92,94110
+3623,2016-08-19,Unapproved or unmaintained equipment or utensils,88,94110
+3623,2014-08-11,Moderate risk food holding temperature,90,94110
+3623,2015-11-17,Moderate risk vermin infestation,86,94110
+3623,2015-11-17,Moderate risk food holding temperature,86,94110
+3623,2014-01-28,Moderate risk vermin infestation,90,94110
+3655,2015-01-26,Moderate risk vermin infestation,96,94110
+3655,2013-11-12,Moderate risk vermin infestation,96,94110
+3757,2015-04-22,Inadequate warewashing facilities or equipment,96,94110
+3757,2016-06-22,Unapproved or unmaintained equipment or utensils,88,94110
+3757,2016-06-22,Inadequate and inaccessible handwashing facilities,88,94110
+3784,2014-06-09,Moderate risk food holding temperature,92,94110
+3869,2016-01-27,Unapproved or unmaintained equipment or utensils,94,94110
+3869,2014-04-14,Unapproved or unmaintained equipment or utensils,96,94110
+3869,2016-07-11,Moderate risk food holding temperature,90,94110
+3870,2015-11-19,Moderate risk food holding temperature,81,94110
+3870,2014-03-27,Unapproved or unmaintained equipment or utensils,91,94110
+3871,2016-08-23,Moderate risk vermin infestation,90,94110
+3871,2014-02-26,No hot water or running water,91,94110
+3899,2015-01-20,Moderate risk vermin infestation,88,94110
+3899,2015-01-20,Unapproved or unmaintained equipment or utensils,88,94110
+3899,2015-08-31,Moderate risk vermin infestation,96,94110
+3911,2015-03-03,Unapproved or unmaintained equipment or utensils,96,94110
+3911,2015-03-03,Inadequate or unsanitary refuse containers or area or no garbage service,96,94110
+3911,2016-01-04,Unapproved or unmaintained equipment or utensils,94,94110
+3911,2016-06-09,Unapproved or unmaintained equipment or utensils,90,94110
+4449,2016-01-06,Inadequate and inaccessible handwashing facilities,86,94110
+4449,2016-01-06,Moderate risk food holding temperature,86,94110
+4449,2014-05-28,Moderate risk food holding temperature,90,94110
+4449,2014-05-28,Unapproved or unmaintained equipment or utensils,90,94110
+4449,2014-05-28,Insufficient hot water or running water,90,94110
+4449,2016-06-28,Moderate risk food holding temperature,88,94110
+4481,2014-06-02,Moderate risk food holding temperature,94,94110
+4481,2015-06-22,Inadequate warewashing facilities or equipment,94,94110
+4481,2015-06-22,Moderate risk food holding temperature,94,94110
+4481,2014-01-09,Inadequate warewashing facilities or equipment,96,94110
+4584,2014-08-11,Moderate risk food holding temperature,92,94110
+4584,2015-09-23,Moderate risk food holding temperature,92,94110
+4584,2016-04-05,Unapproved or unmaintained equipment or utensils,96,94110
+4797,2015-05-11,Moderate risk food holding temperature,88,94110
+4797,2015-05-11,Inadequate and inaccessible handwashing facilities,88,94110
+4797,2016-03-08,Inadequate and inaccessible handwashing facilities,92,94110
+4797,2016-03-08,Unapproved or unmaintained equipment or utensils,92,94110
+4800,2014-10-06,Unapproved or unmaintained equipment or utensils,98,94110
+4874,2014-10-29,Moderate risk food holding temperature,96,94110
+4874,2016-05-02,Moderate risk food holding temperature,90,94110
+4874,2016-05-02,Moderate risk vermin infestation,90,94110
+4881,2015-01-20,Inadequate warewashing facilities or equipment,96,94110
+4884,2015-01-27,Inadequate and inaccessible handwashing facilities,92,94110
+4914,2016-03-23,Unapproved or unmaintained equipment or utensils,92,94110
+4917,2014-07-14,Unapproved or unmaintained equipment or utensils,90,94110
+4922,2015-11-09,Unapproved or unmaintained equipment or utensils,94,94110
+4922,2016-05-19,Moderate risk vermin infestation,92,94110
+4959,2015-04-01,Moderate risk vermin infestation,92,94110
+4959,2014-04-21,Unapproved or unmaintained equipment or utensils,94,94110
+5006,2015-05-04,Moderate risk food holding temperature,92,94110
+5006,2013-12-30,Inadequate and inaccessible handwashing facilities,96,94110
+5025,2016-08-04,Moderate risk food holding temperature,92,94110
+5025,2015-08-21,Moderate risk food holding temperature,96,94110
+5032,2016-09-23,Unapproved or unmaintained equipment or utensils,96,94110
+5143,2015-07-13,Moderate risk vermin infestation,94,94110
+5143,2014-01-14,Moderate risk vermin infestation,90,94110
+5156,2014-11-07,Moderate risk food holding temperature,94,94110
+5156,2013-10-15,Unapproved or unmaintained equipment or utensils,94,94110
+5156,2014-04-02,Inadequate and inaccessible handwashing facilities,94,94110
+5271,2014-07-28,Inadequate warewashing facilities or equipment,96,94110
+5271,2015-06-04,Inadequate warewashing facilities or equipment,80,94110
+5271,2015-06-04,Moderate risk vermin infestation,80,94110
+5271,2015-06-04,Moderate risk food holding temperature,80,94110
+5271,2015-06-04,Inadequate and inaccessible handwashing facilities,80,94110
+5272,2015-10-16,Moderate risk food holding temperature,96,94110
+5291,2015-04-14,Moderate risk food holding temperature,92,94110
+5291,2016-02-29,Inadequate warewashing facilities or equipment,90,94110
+5301,2015-10-25,Inadequate warewashing facilities or equipment,92,94110
+5301,2016-02-01,Inadequate warewashing facilities or equipment,92,94110
+5301,2014-04-16,Moderate risk food holding temperature,96,94110
+5913,2016-09-06,Inadequate and inaccessible handwashing facilities,92,94110
+5913,2016-09-06,Moderate risk vermin infestation,92,94110
+5913,2015-01-30,Moderate risk vermin infestation,92,94110
+5913,2015-09-11,Moderate risk vermin infestation,96,94110
+5913,2016-04-07,Insufficient hot water or running water,96,94110
+5913,2014-02-28,Moderate risk vermin infestation,88,94110
+5913,2014-02-28,Inadequate and inaccessible handwashing facilities,88,94110
+5953,2014-03-25,Unclean unmaintained or improperly constructed toilet facilities,96,94110
+7055,2014-08-19,Unapproved or unmaintained equipment or utensils,81,94110
+7055,2014-08-19,Inadequate and inaccessible handwashing facilities,81,94110
+7055,2014-03-26,Moderate risk food holding temperature,87,94110
+7085,2014-04-07,Inadequate and inaccessible handwashing facilities,85,94110
+7491,2014-03-24,Unapproved food source,89,94110
+7491,2014-03-24,Insufficient hot water or running water,89,94110
+7493,2015-10-02,Unapproved or unmaintained equipment or utensils,80,94110
+7493,2015-10-02,Moderate risk vermin infestation,80,94110
+7493,2015-10-02,Inadequate and inaccessible handwashing facilities,80,94110
+7493,2016-04-20,Inadequate and inaccessible handwashing facilities,90,94110
+7493,2016-04-20,Unapproved or unmaintained equipment or utensils,90,94110
+7646,2015-08-03,Moderate risk vermin infestation,96,94110
+7646,2014-01-21,Moderate risk vermin infestation,96,94110
+7649,2013-12-27,Moderate risk food holding temperature,90,94110
+7649,2013-12-27,Insufficient hot water or running water,90,94110
+7663,2016-02-01,Unapproved or unmaintained equipment or utensils,98,94110
+7664,2016-09-23,Moderate risk vermin infestation,96,94110
+7736,2014-07-14,Moderate risk food holding temperature,90,94110
+7736,2015-06-24,Moderate risk vermin infestation,84,94110
+7736,2015-06-24,Moderate risk food holding temperature,84,94110
+7736,2014-01-13,Moderate risk vermin infestation,82,94110
+7736,2016-07-06,Moderate risk food holding temperature,84,94110
+7736,2016-07-06,Moderate risk vermin infestation,84,94110
+7736,2016-07-06,Unapproved or unmaintained equipment or utensils,84,94110
+7761,2015-12-02,Moderate risk vermin infestation,90,94110
+7761,2015-12-02,Unapproved or unmaintained equipment or utensils,90,94110
+7761,2016-05-02,Moderate risk vermin infestation,92,94110
+7771,2015-04-28,Moderate risk food holding temperature,90,94110
+7771,2015-04-28,Inadequate and inaccessible handwashing facilities,90,94110
+7771,2016-02-01,Inadequate and inaccessible handwashing facilities,86,94110
+7771,2016-02-01,Moderate risk vermin infestation,86,94110
+7771,2016-07-01,Inadequate and inaccessible handwashing facilities,88,94110
+7772,2015-07-01,Moderate risk vermin infestation,94,94110
+7772,2016-01-29,Unapproved or unmaintained equipment or utensils,92,94110
+7772,2016-07-07,Unapproved or unmaintained equipment or utensils,90,94110
+7779,2014-08-25,Moderate risk food holding temperature,96,94110
+7779,2015-11-18,Other moderate risk violation,96,94110
+7779,2014-01-29,Moderate risk food holding temperature,92,94110
+7779,2014-01-29,Unapproved or unmaintained equipment or utensils,92,94110
+7779,2016-06-08,Unapproved or unmaintained equipment or utensils,94,94110
+7786,2014-07-30,Moderate risk vermin infestation,94,94110
+7786,2014-07-30,Inadequate warewashing facilities or equipment,94,94110
+7786,2015-10-19,Moderate risk vermin infestation,96,94110
+7786,2016-03-21,Moderate risk food holding temperature,92,94110
+11572,2015-05-02,Inadequate and inaccessible handwashing facilities,92,94110
+12285,2014-06-30,Unapproved or unmaintained equipment or utensils,83,94110
+12285,2014-06-30,Insufficient hot water or running water,83,94110
+12285,2014-06-30,Inadequate and inaccessible handwashing facilities,83,94110
+15094,2015-04-28,Moderate risk vermin infestation,92,94110
+15094,2014-03-21,Inadequate warewashing facilities or equipment,96,94110
+16349,2015-09-11,Unapproved or unmaintained equipment or utensils,94,94110
+16424,2014-06-05,Inadequate and inaccessible handwashing facilities,90,94110
+16424,2015-04-17,Inadequate and inaccessible handwashing facilities,92,94110
+16424,2015-12-29,Inadequate and inaccessible handwashing facilities,92,94110
+16513,2015-03-04,Moderate risk food holding temperature,83,94110
+16513,2015-11-04,Moderate risk food holding temperature,83,94110
+16513,2015-11-04,Moderate risk vermin infestation,83,94110
+16513,2014-05-19,Moderate risk vermin infestation,81,94110
+16513,2014-05-19,Inadequate warewashing facilities or equipment,81,94110
+17411,2014-09-03,Inadequate and inaccessible handwashing facilities,85,94110
+17411,2014-09-03,Moderate risk food holding temperature,85,94110
+17411,2014-01-02,Inadequate and inaccessible handwashing facilities,85,94110
+18047,2015-04-29,Moderate risk food holding temperature,92,94110
+18047,2015-04-29,Unapproved or unmaintained equipment or utensils,92,94110
+18047,2014-04-21,Moderate risk vermin infestation,88,94110
+18047,2014-04-21,Moderate risk food holding temperature,88,94110
+18403,2014-02-05,Inadequate and inaccessible handwashing facilities,96,94110
+18403,2016-05-04,Insufficient hot water or running water,92,94110
+18514,2014-03-19,Moderate risk food holding temperature,90,94110
+18815,2014-08-06,Inadequate and inaccessible handwashing facilities,92,94110
+18815,2014-08-06,Unapproved or unmaintained equipment or utensils,92,94110
+18815,2014-05-20,Moderate risk food holding temperature,90,94110
+18815,2016-04-13,Unapproved or unmaintained equipment or utensils,94,94110
+18940,2016-09-30,Unapproved or unmaintained equipment or utensils,94,94110
+18996,2014-10-06,Moderate risk food holding temperature,90,94110
+18996,2015-07-27,Inadequate warewashing facilities or equipment,92,94110
+19170,2014-03-18,Unclean or unsanitary food contact surfaces,86,94110
+21807,2013-11-21,Unapproved or unmaintained equipment or utensils,98,94110
+21982,2014-05-06,Moderate risk vermin infestation,85,94110
+21982,2014-05-06,Inadequate warewashing facilities or equipment,85,94110
+21982,2014-05-06,No hot water or running water,85,94110
+21982,2016-06-06,Moderate risk food holding temperature,90,94110
+23865,2016-08-16,Inadequate and inaccessible handwashing facilities,83,94110
+25048,2014-08-25,Inadequate and inaccessible handwashing facilities,90,94110
+25048,2014-08-25,Moderate risk food holding temperature,90,94110
+25048,2013-12-11,Inadequate and inaccessible handwashing facilities,90,94110
+25048,2016-05-25,Unapproved or unmaintained equipment or utensils,92,94110
+27306,2014-01-27,Moderate risk food holding temperature,96,94110
+28976,2016-01-27,Unapproved or unmaintained equipment or utensils,96,94110
+29246,2015-12-04,Unapproved or unmaintained equipment or utensils,90,94110
+29246,2015-12-04,Moderate risk vermin infestation,90,94110
+29246,2016-05-02,Inadequate and inaccessible handwashing facilities,86,94110
+29246,2016-05-02,Moderate risk vermin infestation,86,94110
+32170,2016-08-16,Moderate risk food holding temperature,90,94110
+32170,2016-08-16,Unapproved or unmaintained equipment or utensils,90,94110
+32170,2016-01-20,Moderate risk vermin infestation,85,94110
+32200,2015-09-24,Moderate risk food holding temperature,90,94110
+32200,2014-05-07,Unapproved or unmaintained equipment or utensils,91,94110
+32200,2016-06-01,Moderate risk vermin infestation,81,94110
+32671,2015-06-30,Unclean or unsanitary food contact surfaces,80,94110
+32671,2015-06-30,Moderate risk food holding temperature,80,94110
+32671,2016-06-29,Unapproved or unmaintained equipment or utensils,84,94110
+32671,2016-06-29,Moderate risk food holding temperature,84,94110
+32925,2015-04-28,Inadequate and inaccessible handwashing facilities,92,94110
+32925,2014-05-19,Moderate risk food holding temperature,80,94110
+33700,2014-11-17,Moderate risk food holding temperature,90,94110
+33700,2016-04-12,Inadequate and inaccessible handwashing facilities,90,94110
+33700,2014-03-03,Moderate risk food holding temperature,85,94110
+33710,2014-06-10,Unapproved or unmaintained equipment or utensils,88,94110
+33710,2014-06-10,Moderate risk vermin infestation,88,94110
+33710,2015-06-26,Moderate risk food holding temperature,96,94110
+34708,2014-10-09,Moderate risk food holding temperature,90,94110
+34708,2014-10-09,Unapproved or unmaintained equipment or utensils,90,94110
+34708,2015-06-11,Inadequate or unsanitary refuse containers or area or no garbage service,90,94110
+34708,2015-06-11,Unapproved or unmaintained equipment or utensils,90,94110
+34708,2015-06-11,Moderate risk food holding temperature,90,94110
+34708,2016-01-27,Unapproved or unmaintained equipment or utensils,96,94110
+34708,2014-05-15,Moderate risk food holding temperature,90,94110
+36024,2014-06-05,Inadequate and inaccessible handwashing facilities,92,94110
+36024,2015-09-04,Inadequate and inaccessible handwashing facilities,92,94110
+36024,2016-04-01,Moderate risk vermin infestation,90,94110
+36348,2015-03-03,Moderate risk food holding temperature,96,94110
+36348,2015-11-19,Moderate risk vermin infestation,92,94110
+36348,2013-11-08,Inadequate warewashing facilities or equipment,94,94110
+36348,2014-05-27,Moderate risk food holding temperature,90,94110
+36589,2015-05-28,Inadequate and inaccessible handwashing facilities,84,94110
+36589,2015-05-28,Moderate risk vermin infestation,84,94110
+36685,2014-12-29,Moderate risk food holding temperature,92,94110
+36685,2016-03-22,Inadequate and inaccessible handwashing facilities,94,94110
+36685,2014-03-13,Moderate risk vermin infestation,94,94110
+37304,2014-05-14,Unapproved or unmaintained equipment or utensils,90,94110
+37304,2014-05-14,Inadequate and inaccessible handwashing facilities,90,94110
+37407,2013-10-11,Inadequate or unsanitary refuse containers or area or no garbage service,96,94110
+37407,2014-04-07,Moderate risk food holding temperature,87,94110
+37639,2016-02-10,Inadequate and inaccessible handwashing facilities,92,94110
+37639,2016-02-10,Moderate risk food holding temperature,92,94110
+37639,2014-03-25,Moderate risk food holding temperature,96,94110
+37731,2016-08-02,Inadequate and inaccessible handwashing facilities,90,94110
+37731,2014-08-05,Moderate risk vermin infestation,90,94110
+37731,2015-07-27,Moderate risk vermin infestation,94,94110
+38126,2015-11-04,Moderate risk vermin infestation,94,94110
+38126,2014-03-25,Unclean or unsanitary food contact surfaces,91,94110
+38423,2013-12-11,Moderate risk food holding temperature,94,94110
+38447,2015-02-02,Unapproved or unmaintained equipment or utensils,87,94110
+38447,2015-02-02,Unapproved food source,87,94110
+38580,2016-09-21,Inadequate and inaccessible handwashing facilities,86,94110
+38580,2016-09-21,Moderate risk vermin infestation,86,94110
+38580,2016-09-21,Unapproved or unmaintained equipment or utensils,86,94110
+38580,2015-08-06,Inadequate and inaccessible handwashing facilities,81,94110
+38580,2016-03-21,Moderate risk vermin infestation,84,94110
+38580,2016-03-21,Moderate risk food holding temperature,84,94110
+38929,2015-05-06,Inadequate warewashing facilities or equipment,90,94110
+38929,2015-05-06,Moderate risk food holding temperature,90,94110
+38929,2013-12-16,Inadequate and inaccessible handwashing facilities,84,94110
+38929,2013-12-16,Unapproved or unmaintained equipment or utensils,84,94110
+38929,2016-07-01,Unapproved or unmaintained equipment or utensils,90,94110
+38929,2016-07-01,Inadequate and inaccessible handwashing facilities,90,94110
+39031,2014-08-19,Inadequate warewashing facilities or equipment,96,94110
+39031,2016-01-27,Unapproved or unmaintained equipment or utensils,96,94110
+39398,2016-09-23,Unapproved or unmaintained equipment or utensils,90,94110
+39398,2016-09-23,Moderate risk food holding temperature,90,94110
+39398,2014-08-22,Inadequate warewashing facilities or equipment,90,94110
+39398,2014-08-22,Unapproved or unmaintained equipment or utensils,90,94110
+39398,2015-09-29,Moderate risk food holding temperature,92,94110
+39398,2014-03-17,Inadequate and inaccessible handwashing facilities,83,94110
+39398,2014-03-17,Unclean unmaintained or improperly constructed toilet facilities,83,94110
+39398,2016-04-13,Unapproved or unmaintained equipment or utensils,91,94110
+39606,2014-05-27,Unapproved or unmaintained equipment or utensils,94,94110
+39980,2014-10-29,Moderate risk vermin infestation,96,94110
+39980,2014-02-10,Moderate risk vermin infestation,96,94110
+39980,2016-05-10,Unclean unmaintained or improperly constructed toilet facilities,98,94110
+40144,2014-09-25,Unapproved or unmaintained equipment or utensils,94,94110
+40144,2015-11-17,Moderate risk food holding temperature,94,94110
+40144,2014-03-25,Unapproved or unmaintained equipment or utensils,84,94110
+40144,2016-05-12,Inadequate and inaccessible handwashing facilities,96,94110
+58803,2014-12-03,Inadequate and inaccessible handwashing facilities,81,94110
+58803,2014-12-03,Inadequate warewashing facilities or equipment,81,94110
+58803,2014-12-03,Unapproved or unmaintained equipment or utensils,81,94110
+58803,2014-12-03,Unclean or unsanitary food contact surfaces,81,94110
+58803,2016-06-21,Unclean or unsanitary food contact surfaces,87,94110
+59044,2015-07-31,Moderate risk food holding temperature,88,94110
+59124,2016-09-23,Unapproved or unmaintained equipment or utensils,98,94110
+59124,2014-04-28,Moderate risk food holding temperature,100,94110
+59574,2015-02-25,Moderate risk food holding temperature,90,94110
+59574,2015-02-25,Moderate risk vermin infestation,90,94110
+59574,2014-04-15,Unapproved or unmaintained equipment or utensils,96,94110
+59637,2015-06-15,Inadequate and inaccessible handwashing facilities,92,94110
+59637,2015-06-15,Moderate risk food holding temperature,92,94110
+59637,2016-03-24,Unapproved or unmaintained equipment or utensils,96,94110
+59935,2014-11-05,Unapproved or unmaintained equipment or utensils,98,94110
+59935,2015-08-26,Inadequate warewashing facilities or equipment,90,94110
+59935,2016-03-30,Unapproved or unmaintained equipment or utensils,96,94110
+59935,2013-11-21,Moderate risk food holding temperature,86,94110
+59935,2013-11-21,Insufficient hot water or running water,86,94110
+60210,2014-08-04,Unapproved or unmaintained equipment or utensils,96,94110
+60210,2015-09-10,Moderate risk food holding temperature,94,94110
+60210,2016-03-30,Moderate risk food holding temperature,88,94110
+60210,2016-06-08,Moderate risk food holding temperature,90,94110
+60828,2014-08-21,Moderate risk vermin infestation,96,94110
+60828,2016-05-13,Moderate risk food holding temperature,96,94110
+60978,2013-11-16,Inadequate and inaccessible handwashing facilities,90,94110
+61595,2016-04-13,Inadequate and inaccessible handwashing facilities,86,94110
+61595,2016-04-13,Moderate risk food holding temperature,86,94110
+61697,2016-08-23,Moderate risk vermin infestation,90,94110
+61697,2016-08-23,Moderate risk food holding temperature,90,94110
+61697,2015-08-11,Moderate risk vermin infestation,83,94110
+61697,2014-05-20,Inadequate or unsanitary refuse containers or area or no garbage service,83,94110
+61697,2014-05-20,Unapproved or unmaintained equipment or utensils,83,94110
+61736,2016-02-22,Unapproved or unmaintained equipment or utensils,96,94110
+61736,2014-04-17,Moderate risk vermin infestation,89,94110
+62056,2014-02-06,Unapproved or unmaintained equipment or utensils,92,94110
+62056,2014-02-06,Moderate risk food holding temperature,92,94110
+62735,2015-01-21,Insufficient hot water or running water,82,94110
+62735,2015-01-21,Moderate risk vermin infestation,82,94110
+62735,2015-01-21,Moderate risk food holding temperature,82,94110
+62739,2016-01-19,Unapproved or unmaintained equipment or utensils,89,94110
+62739,2016-06-15,Unapproved or unmaintained equipment or utensils,94,94110
+62744,2014-07-30,Unapproved or unmaintained equipment or utensils,90,94110
+62744,2014-07-30,Inadequate and inaccessible handwashing facilities,90,94110
+62744,2015-07-01,Inadequate warewashing facilities or equipment,98,94110
+62921,2015-03-05,Moderate risk food holding temperature,96,94110
+62921,2013-10-15,Moderate risk food holding temperature,96,94110
+63169,2015-07-07,Inadequate warewashing facilities or equipment,90,94110
+63169,2015-07-07,Moderate risk food holding temperature,90,94110
+63169,2014-01-08,Inadequate warewashing facilities or equipment,96,94110
+63286,2016-01-12,Moderate risk food holding temperature,86,94110
+63286,2016-01-12,Inadequate and inaccessible handwashing facilities,86,94110
+63286,2016-06-13,Moderate risk food holding temperature,84,94110
+63286,2016-06-13,Moderate risk vermin infestation,84,94110
+63663,2014-04-24,Unapproved or unmaintained equipment or utensils,92,94110
+64004,2014-06-05,Moderate risk food holding temperature,80,94110
+64004,2014-06-05,Insufficient hot water or running water,80,94110
+64004,2014-06-05,Unapproved or unmaintained equipment or utensils,80,94110
+64004,2014-06-05,Inadequate warewashing facilities or equipment,80,94110
+64004,2013-10-31,Insufficient hot water or running water,90,94110
+64004,2013-10-31,Inadequate warewashing facilities or equipment,90,94110
+64004,2016-06-08,Unapproved or unmaintained equipment or utensils,92,94110
+64007,2015-03-27,Inadequate and inaccessible handwashing facilities,100,94110
+64007,2015-09-16,Inadequate and inaccessible handwashing facilities,86,94110
+64076,2015-05-13,Moderate risk food holding temperature,83,94110
+64076,2016-04-12,Unapproved or unmaintained equipment or utensils,84,94110
+64076,2016-04-12,Moderate risk food holding temperature,84,94110
+64076,2016-04-12,Inadequate and inaccessible handwashing facilities,84,94110
+64076,2016-04-12,Unclean unmaintained or improperly constructed toilet facilities,84,94110
+64116,2015-08-03,Inadequate warewashing facilities or equipment,94,94110
+64116,2016-03-24,Unapproved or unmaintained equipment or utensils,96,94110
+64501,2014-06-06,Inadequate warewashing facilities or equipment,92,94110
+64501,2013-12-13,Unapproved or unmaintained equipment or utensils,94,94110
+64717,2014-09-04,Moderate risk vermin infestation,96,94110
+64717,2014-06-02,Moderate risk vermin infestation,94,94110
+64881,2016-02-17,Moderate risk food holding temperature,88,94110
+64881,2016-02-17,Unapproved or unmaintained equipment or utensils,88,94110
+65051,2015-02-03,Moderate risk food holding temperature,96,94110
+65111,2014-01-15,Moderate risk vermin infestation,86,94110
+65238,2015-05-28,Moderate risk food holding temperature,94,94110
+65348,2013-12-11,Moderate risk food holding temperature,80,94110
+65348,2013-12-11,Unapproved or unmaintained equipment or utensils,80,94110
+65468,2016-07-27,Moderate risk food holding temperature,92,94110
+65468,2016-07-27,Inadequate and inaccessible handwashing facilities,92,94110
+65795,2016-01-14,Unapproved or unmaintained equipment or utensils,94,94110
+65795,2014-02-11,Moderate risk food holding temperature,80,94110
+65795,2014-02-11,Unclean or unsanitary food contact surfaces,80,94110
+65852,2015-08-11,Moderate risk food holding temperature,96,94110
+65852,2016-02-26,Unapproved or unmaintained equipment or utensils,90,94110
+65852,2013-10-21,Inadequate and inaccessible handwashing facilities,94,94110
+66173,2014-09-17,Moderate risk food holding temperature,92,94110
+66173,2015-07-29,Moderate risk vermin infestation,90,94110
+66173,2014-02-20,Unapproved or unmaintained equipment or utensils,83,94110
+66173,2016-05-16,Inadequate and inaccessible handwashing facilities,92,94110
+66297,2016-08-29,Moderate risk food holding temperature,88,94110
+66297,2015-08-24,Moderate risk vermin infestation,92,94110
+66297,2016-02-29,Moderate risk food holding temperature,92,94110
+66503,2016-08-19,Unapproved or unmaintained equipment or utensils,96,94110
+66503,2015-02-25,Moderate risk vermin infestation,94,94110
+66503,2015-10-16,Unapproved or unmaintained equipment or utensils,96,94110
+66503,2014-04-16,Unapproved or unmaintained equipment or utensils,98,94110
+66685,2016-02-22,Moderate risk food holding temperature,85,94110
+66704,2015-05-20,Moderate risk food holding temperature,88,94110
+66704,2015-05-20,Inadequate and inaccessible handwashing facilities,88,94110
+66704,2014-03-24,Inadequate and inaccessible handwashing facilities,89,94110
+66900,2016-08-16,Moderate risk food holding temperature,87,94110
+66900,2014-09-29,Unapproved or unmaintained equipment or utensils,87,94110
+66900,2016-02-10,Moderate risk vermin infestation,90,94110
+66900,2016-02-10,Moderate risk food holding temperature,90,94110
+67122,2016-04-20,Moderate risk food holding temperature,88,94110
+67122,2016-04-20,Unapproved or unmaintained equipment or utensils,88,94110
+67495,2013-12-30,Inadequate warewashing facilities or equipment,98,94110
+67552,2016-03-23,Moderate risk food holding temperature,92,94110
+67815,2015-05-18,Moderate risk food holding temperature,94,94110
+68018,2015-12-02,Inadequate and inaccessible handwashing facilities,96,94110
+68018,2016-06-10,Moderate risk food holding temperature,96,94110
+68172,2016-07-27,Moderate risk vermin infestation,92,94110
+68172,2014-09-29,Moderate risk vermin infestation,85,94110
+68172,2016-01-14,Moderate risk food holding temperature,86,94110
+68173,2016-07-15,Moderate risk food holding temperature,96,94110
+68173,2016-02-02,Moderate risk food holding temperature,94,94110
+68323,2015-11-17,Unapproved or unmaintained equipment or utensils,94,94110
+68365,2014-12-17,Inadequate and inaccessible handwashing facilities,83,94110
+68379,2016-08-22,Unapproved or unmaintained equipment or utensils,84,94110
+68379,2015-10-08,Unapproved or unmaintained equipment or utensils,88,94110
+68379,2015-10-08,Unapproved or unmaintained equipment or utensils,88,94110
+68390,2016-08-29,Inadequate and inaccessible handwashing facilities,82,94110
+68390,2015-03-03,Inadequate and inaccessible handwashing facilities,83,94110
+68394,2015-01-12,Unapproved or unmaintained equipment or utensils,94,94110
+68394,2015-08-28,Moderate risk food holding temperature,90,94110
+68483,2016-08-16,Moderate risk food holding temperature,85,94110
+68483,2016-02-10,Moderate risk vermin infestation,94,94110
+68503,2016-04-05,Moderate risk vermin infestation,92,94110
+68644,2015-10-06,Moderate risk food holding temperature,94,94110
+68644,2015-10-06,Unapproved or unmaintained equipment or utensils,94,94110
+68644,2016-06-03,Inadequate and inaccessible handwashing facilities,96,94110
+68692,2014-06-11,No hot water or running water,89,94110
+68692,2013-10-07,Inadequate and inaccessible handwashing facilities,86,94110
+68692,2016-04-28,Unapproved or unmaintained equipment or utensils,92,94110
+68768,2015-01-27,Moderate risk vermin infestation,80,94110
+68775,2015-04-09,Moderate risk food holding temperature,94,94110
+68799,2016-05-26,Unapproved or unmaintained equipment or utensils,86,94110
+68811,2016-03-24,Moderate risk food holding temperature,94,94110
+68894,2015-02-03,Unapproved or unmaintained equipment or utensils,94,94110
+68894,2016-02-01,Insufficient hot water or running water,94,94110
+68894,2013-10-15,Inadequate warewashing facilities or equipment,94,94110
+68894,2014-05-07,Inadequate and inaccessible handwashing facilities,92,94110
+68963,2016-04-05,Moderate risk food holding temperature,90,94110
+68963,2014-04-15,Moderate risk food holding temperature,89,94110
+69013,2015-08-13,Moderate risk food holding temperature,90,94110
+69013,2014-02-10,Unapproved or unmaintained equipment or utensils,94,94110
+69175,2015-06-16,Moderate risk food holding temperature,81,94110
+69175,2015-06-16,Inadequate and inaccessible handwashing facilities,81,94110
+69175,2016-06-01,Moderate risk food holding temperature,84,94110
+69180,2014-04-04,Moderate risk vermin infestation,90,94110
+69181,2015-02-03,Unsanitary employee garments hair or nails,92,94110
+69181,2015-02-03,Inadequate and inaccessible handwashing facilities,92,94110
+69181,2016-03-30,Moderate risk food holding temperature,92,94110
+69181,2016-03-30,Unapproved or unmaintained equipment or utensils,92,94110
+69189,2016-01-06,Unapproved or unmaintained equipment or utensils,90,94110
+69189,2016-01-06,Inadequate and inaccessible handwashing facilities,90,94110
+69253,2015-05-06,Moderate risk food holding temperature,90,94110
+69253,2016-01-28,Other moderate risk violation,96,94110
+69253,2013-12-16,Unapproved or unmaintained equipment or utensils,90,94110
+69253,2013-12-16,Moderate risk food holding temperature,90,94110
+69253,2016-06-30,Moderate risk food holding temperature,94,94110
+69324,2014-08-22,Moderate risk food holding temperature,94,94110
+69324,2014-03-03,Inadequate warewashing facilities or equipment,94,94110
+69324,2014-03-03,Unapproved or unmaintained equipment or utensils,94,94110
+69324,2016-04-13,Moderate risk food holding temperature,92,94110
+69324,2016-04-13,Unapproved or unmaintained equipment or utensils,92,94110
+69325,2014-05-29,Moderate risk food holding temperature,86,94110
+69465,2015-02-24,Moderate risk food holding temperature,94,94110
+69465,2016-03-02,Moderate risk food holding temperature,94,94110
+69465,2014-04-21,Moderate risk food holding temperature,94,94110
+69466,2014-06-25,Inadequate warewashing facilities or equipment,90,94110
+69466,2015-09-23,Moderate risk food holding temperature,92,94110
+69466,2016-04-05,Moderate risk food holding temperature,86,94110
+69466,2016-04-05,Moderate risk vermin infestation,86,94110
+69466,2016-04-05,Unapproved or unmaintained equipment or utensils,86,94110
+69575,2015-05-08,Inadequate and inaccessible handwashing facilities,100,94110
+69792,2014-11-17,Inadequate warewashing facilities or equipment,90,94110
+69792,2014-11-17,Unapproved or unmaintained equipment or utensils,90,94110
+69792,2016-04-12,Inadequate and inaccessible handwashing facilities,88,94110
+69813,2016-04-19,Unclean or unsanitary food contact surfaces,89,94110
+69884,2015-05-06,Insufficient hot water or running water,90,94110
+69884,2015-05-06,Inadequate and inaccessible handwashing facilities,90,94110
+69884,2016-01-28,Unapproved or unmaintained equipment or utensils,86,94110
+69884,2013-11-13,Inadequate and inaccessible handwashing facilities,88,94110
+69884,2013-11-13,Moderate risk food holding temperature,88,94110
+69884,2016-06-30,Moderate risk food holding temperature,90,94110
+69885,2016-07-27,Moderate risk food holding temperature,92,94110
+69885,2015-12-30,Unapproved or unmaintained equipment or utensils,98,94110
+69885,2013-12-04,Moderate risk food holding temperature,94,94110
+69909,2016-08-04,Unapproved or unmaintained equipment or utensils,92,94110
+69909,2015-07-14,Moderate risk vermin infestation,94,94110
+69942,2016-07-01,Inadequate and inaccessible handwashing facilities,92,94110
+70148,2016-09-13,Unclean or unsanitary food contact surfaces,91,94110
+70148,2015-07-27,Inadequate and inaccessible handwashing facilities,88,94110
+70148,2015-07-27,Unapproved or unmaintained equipment or utensils,88,94110
+70365,2016-08-04,Moderate risk vermin infestation,86,94110
+70365,2016-08-04,Unapproved or unmaintained equipment or utensils,86,94110
+70365,2013-10-11,Inadequate and inaccessible handwashing facilities,94,94110
+70365,2013-10-11,Inadequate or unsanitary refuse containers or area or no garbage service,94,94110
+70494,2016-09-21,Moderate risk food holding temperature,92,94110
+70707,2014-04-10,Moderate risk food holding temperature,96,94110
+70713,2015-09-11,Unapproved or unmaintained equipment or utensils,92,94110
+70713,2015-09-11,Moderate risk food holding temperature,92,94110
+70713,2016-05-03,Moderate risk food holding temperature,90,94110
+71149,2015-10-06,Inadequate sewage or wastewater disposal,92,94110
+71149,2014-03-06,Moderate risk food holding temperature,94,94110
+71154,2014-05-28,Inadequate and inaccessible handwashing facilities,94,94110
+71174,2015-04-07,Moderate risk food holding temperature,90,94110
+71174,2014-04-03,Inadequate and inaccessible handwashing facilities,90,94110
+71174,2014-04-03,Unapproved or unmaintained equipment or utensils,90,94110
+71380,2015-06-16,Moderate risk vermin infestation,96,94110
+71380,2016-03-01,Moderate risk vermin infestation,86,94110
+71380,2016-03-01,Inadequate and inaccessible handwashing facilities,86,94110
+71380,2013-10-15,Inadequate and inaccessible handwashing facilities,94,94110
+71380,2014-04-14,Unapproved or unmaintained equipment or utensils,98,94110
+71649,2016-04-12,Unapproved or unmaintained equipment or utensils,89,94110
+71649,2014-03-17,Moderate risk food holding temperature,94,94110
+71760,2015-04-30,Moderate risk food holding temperature,92,94110
+71760,2016-02-25,Moderate risk food holding temperature,92,94110
+71760,2014-03-20,Unapproved or unmaintained equipment or utensils,82,94110
+71760,2014-03-20,Inadequate and inaccessible handwashing facilities,82,94110
+71761,2015-07-14,Inadequate and inaccessible handwashing facilities,96,94110
+71761,2014-03-31,Insufficient hot water or running water,92,94110
+71803,2015-11-05,Inadequate and inaccessible handwashing facilities,96,94110
+71803,2014-04-24,Unapproved or unmaintained equipment or utensils,96,94110
+74039,2016-03-29,Unclean unmaintained or improperly constructed toilet facilities,94,94110
+74133,2014-10-24,Moderate risk food holding temperature,96,94110
+74133,2014-04-10,Moderate risk food holding temperature,96,94110
+74133,2016-06-03,Moderate risk food holding temperature,90,94110
+74202,2016-09-23,Moderate risk food holding temperature,96,94110
+74202,2014-08-22,Inadequate and inaccessible handwashing facilities,96,94110
+74202,2014-03-03,Inadequate and inaccessible handwashing facilities,90,94110
+74202,2014-03-03,Moderate risk vermin infestation,90,94110
+74283,2016-08-25,Moderate risk vermin infestation,82,94110
+74283,2016-08-25,Moderate risk food holding temperature,82,94110
+74283,2014-08-07,Unapproved or unmaintained equipment or utensils,94,94110
+74283,2015-08-19,Inadequate and inaccessible handwashing facilities,88,94110
+74283,2015-08-19,Moderate risk vermin infestation,88,94110
+74283,2016-02-19,Unapproved or unmaintained equipment or utensils,88,94110
+74283,2016-02-19,Moderate risk food holding temperature,88,94110
+74312,2016-09-12,Inadequate and inaccessible handwashing facilities,81,94110
+74312,2016-09-12,Moderate risk food holding temperature,81,94110
+74312,2013-10-21,Inadequate and inaccessible handwashing facilities,85,94110
+74374,2015-03-03,Moderate risk vermin infestation,88,94110
+74374,2013-11-08,Inadequate and inaccessible handwashing facilities,83,94110
+74374,2014-05-27,Moderate risk food holding temperature,82,94110
+74374,2014-05-27,Moderate risk vermin infestation,82,94110
+74468,2014-06-11,Inadequate warewashing facilities or equipment,92,94110
+74468,2014-06-11,Moderate risk food holding temperature,92,94110
+74468,2015-02-25,Inadequate and inaccessible handwashing facilities,86,94110
+74468,2015-02-25,Moderate risk food holding temperature,86,94110
+74468,2015-02-25,Moderate risk vermin infestation,86,94110
+74481,2015-09-24,Moderate risk food holding temperature,96,94110
+74481,2016-05-09,Inadequate and inaccessible handwashing facilities,96,94110
+74517,2014-01-23,Inadequate warewashing facilities or equipment,98,94110
+74826,2016-07-19,Inadequate and inaccessible handwashing facilities,84,94110
+74826,2014-06-10,Unapproved or unmaintained equipment or utensils,88,94110
+74826,2014-06-10,Moderate risk vermin infestation,88,94110
+74826,2015-10-07,Moderate risk food holding temperature,90,94110
+74826,2015-10-07,Moderate risk vermin infestation,90,94110
+74999,2015-01-13,Unapproved or unmaintained equipment or utensils,96,94110
+74999,2016-03-23,Inadequate warewashing facilities or equipment,96,94110
+75078,2015-11-17,Inadequate and inaccessible handwashing facilities,94,94110
+75078,2016-07-14,Unclean unmaintained or improperly constructed toilet facilities,94,94110
+75464,2015-11-04,Moderate risk food holding temperature,96,94110
+75464,2016-05-17,Moderate risk food holding temperature,96,94110
+75792,2015-01-27,Moderate risk food holding temperature,96,94110
+75792,2014-03-24,Moderate risk food holding temperature,92,94110
+75957,2015-12-01,Inadequate and inaccessible handwashing facilities,87,94110
+76360,2014-04-28,Moderate risk food holding temperature,94,94110
+76441,2014-06-10,Moderate risk food holding temperature,94,94110
+76441,2014-10-27,No hot water or running water,83,94110
+76441,2014-10-27,Inadequate and inaccessible handwashing facilities,83,94110
+76441,2014-10-27,Moderate risk food holding temperature,83,94110
+76441,2016-01-19,Inadequate and inaccessible handwashing facilities,86,94110
+76441,2016-01-19,Moderate risk vermin infestation,86,94110
+76441,2013-11-05,Moderate risk food holding temperature,84,94110
+76441,2013-11-05,Insufficient hot water or running water,84,94110
+76441,2014-02-04,Insufficient hot water or running water,82,94110
+76441,2014-02-04,Moderate risk food holding temperature,82,94110
+77178,2014-03-25,Moderate risk food holding temperature,96,94110
+77425,2014-04-07,Moderate risk vermin infestation,90,94110
+77425,2014-04-07,Moderate risk food holding temperature,90,94110
+77425,2016-07-06,Unapproved or unmaintained equipment or utensils,84,94110
+77425,2016-07-06,Moderate risk food holding temperature,84,94110
+77442,2016-07-11,Unapproved or unmaintained equipment or utensils,81,94110
+77442,2016-07-11,Unclean or unsanitary food contact surfaces,81,94110
+77750,2016-10-03,Inadequate and inaccessible handwashing facilities,96,94110
+77750,2015-11-17,Moderate risk vermin infestation,96,94110
+77933,2014-03-13,Insufficient hot water or running water,92,94110
+78172,2016-03-30,Unclean unmaintained or improperly constructed toilet facilities,92,94110
+78196,2015-02-06,Moderate risk food holding temperature,86,94110
+78196,2015-02-06,Moderate risk vermin infestation,86,94110
+78196,2016-01-20,Unapproved or unmaintained equipment or utensils,82,94110
+78196,2016-01-20,Insufficient hot water or running water,82,94110
+78196,2016-01-20,Inadequate and inaccessible handwashing facilities,82,94110
+78196,2016-01-20,Moderate risk food holding temperature,82,94110
+78215,2015-05-11,Moderate risk food holding temperature,85,94110
+78215,2016-05-05,Moderate risk food holding temperature,86,94110
+78239,2015-07-13,Inadequate and inaccessible handwashing facilities,100,94110
+78406,2014-10-29,Moderate risk vermin infestation,94,94110
+78472,2015-06-01,Inadequate and inaccessible handwashing facilities,94,94110
+78472,2016-05-06,Inadequate and inaccessible handwashing facilities,92,94110
+78545,2016-01-28,Moderate risk food holding temperature,94,94110
+78969,2015-01-30,Moderate risk food holding temperature,96,94110
+79025,2015-01-26,Unapproved or unmaintained equipment or utensils,96,94110
+79025,2016-02-17,Unclean unmaintained or improperly constructed toilet facilities,92,94110
+79050,2015-12-04,Moderate risk food holding temperature,87,94110
+79050,2016-05-02,Inadequate and inaccessible handwashing facilities,86,94110
+79050,2016-05-02,Moderate risk food holding temperature,86,94110
+79247,2014-08-05,Moderate risk food holding temperature,90,94110
+79247,2014-08-05,Unapproved or unmaintained equipment or utensils,90,94110
+79525,2014-07-31,Moderate risk vermin infestation,87,94110
+79525,2015-10-28,Moderate risk food holding temperature,94,94110
+79525,2016-05-09,Moderate risk food holding temperature,92,94110
+79525,2016-05-09,Moderate risk vermin infestation,92,94110
+79632,2016-09-07,Moderate risk food holding temperature,94,94110
+79632,2016-03-22,Moderate risk food holding temperature,89,94110
+79782,2014-07-31,Unapproved or unmaintained equipment or utensils,96,94110
+79782,2015-09-22,Moderate risk food holding temperature,94,94110
+79782,2016-05-03,Moderate risk food holding temperature,92,94110
+79801,2016-06-13,Inadequate and inaccessible handwashing facilities,87,94110
+79805,2016-09-02,Moderate risk food holding temperature,94,94110
+79805,2014-08-04,Unclean or unsanitary food contact surfaces,93,94110
+79805,2016-03-28,Moderate risk food holding temperature,94,94110
+79834,2016-06-09,Inadequate and inaccessible handwashing facilities,96,94110
+79839,2015-10-01,Moderate risk vermin infestation,96,94110
+80235,2015-10-08,Other moderate risk violation,90,94110
+80286,2014-12-29,Unapproved or unmaintained equipment or utensils,94,94110
+80286,2016-03-22,Inadequate and inaccessible handwashing facilities,92,94110
+80545,2016-06-13,Inadequate and inaccessible handwashing facilities,88,94110
+80545,2016-06-13,Moderate risk food holding temperature,88,94110
+80545,2016-06-13,Insufficient hot water or running water,88,94110
+80629,2016-08-30,Inadequate and inaccessible handwashing facilities,94,94110
+80629,2016-01-08,Inadequate and inaccessible handwashing facilities,96,94110
+80798,2016-06-09,Moderate risk vermin infestation,90,94110
+81092,2016-07-01,Inadequate and inaccessible handwashing facilities,82,94110
+81092,2016-07-01,Moderate risk food holding temperature,82,94110
+81161,2016-03-25,Moderate risk food holding temperature,92,94110
+81815,2016-06-22,Unclean or unsanitary food contact surfaces,87,94110
+82228,2015-05-18,Moderate risk food holding temperature,87,94110
+82361,2015-07-31,Unapproved or unmaintained equipment or utensils,90,94110
+82361,2015-07-31,Inadequate and inaccessible handwashing facilities,90,94110
+82413,2015-08-14,Moderate risk food holding temperature,82,94110
+82413,2015-08-14,Unclean or unsanitary food contact surfaces,82,94110
+82494,2016-04-05,Moderate risk food holding temperature,88,94110
+82494,2016-04-05,Unapproved or unmaintained equipment or utensils,88,94110
+82494,2016-04-05,Moderate risk vermin infestation,88,94110
+82494,2016-04-05,Unclean unmaintained or improperly constructed toilet facilities,88,94110
+83369,2015-12-04,Unapproved or unmaintained equipment or utensils,98,94110
+83472,2016-09-07,Inadequate and inaccessible handwashing facilities,92,94110
+83472,2015-08-11,Moderate risk food holding temperature,94,94110
+83472,2016-03-22,Moderate risk food holding temperature,94,94110
+83648,2016-06-28,Inadequate warewashing facilities or equipment,86,94110
+83648,2016-06-28,Inadequate and inaccessible handwashing facilities,86,94110
+83842,2016-03-23,Moderate risk vermin infestation,88,94110
+83842,2016-03-23,Unapproved or unmaintained equipment or utensils,88,94110
+83990,2016-06-28,Moderate risk food holding temperature,92,94110
+84037,2015-09-18,Inadequate and inaccessible handwashing facilities,96,94110
+84037,2016-03-29,Inadequate and inaccessible handwashing facilities,84,94110
+84543,2015-11-17,Inadequate and inaccessible handwashing facilities,85,94110
+84543,2015-11-17,Unapproved or unmaintained equipment or utensils,85,94110
+84543,2016-06-15,Unapproved or unmaintained equipment or utensils,92,94110
+84573,2016-09-15,Insufficient hot water or running water,88,94110
+84573,2016-09-15,Unapproved or unmaintained equipment or utensils,88,94110
+84573,2015-08-31,Moderate risk vermin infestation,90,94110
+84582,2016-09-08,Unclean or unsanitary food contact surfaces,85,94110
+84582,2015-12-29,Inadequate and inaccessible handwashing facilities,96,94110
+85169,2016-09-13,Unapproved or unmaintained equipment or utensils,91,94110
+85526,2016-04-12,Unapproved or unmaintained equipment or utensils,98,94110
+85560,2016-01-08,Moderate risk food holding temperature,88,94110
+85750,2016-03-30,Inadequate and inaccessible handwashing facilities,90,94110
+85750,2016-03-30,Moderate risk food holding temperature,90,94110
+85953,2016-05-16,Moderate risk food holding temperature,80,94110
+85953,2016-05-16,Unclean or unsanitary food contact surfaces,80,94110
+86301,2016-09-23,Inadequate and inaccessible handwashing facilities,92,94110
+86301,2016-03-24,Moderate risk food holding temperature,96,94110
+86350,2016-02-09,Moderate risk food holding temperature,88,94110
+86350,2016-02-09,Inadequate and inaccessible handwashing facilities,88,94110
+86386,2016-09-26,Moderate risk food holding temperature,94,94110
+86386,2016-02-16,Unapproved or unmaintained equipment or utensils,92,94110
+86386,2016-02-16,Inadequate and inaccessible handwashing facilities,92,94110
+86798,2016-09-23,Moderate risk food holding temperature,92,94110
+87699,2016-07-07,Unapproved or unmaintained equipment or utensils,94,94110
+88575,2016-10-04,Moderate risk food holding temperature,86,94110
+88575,2016-10-04,Inadequate and inaccessible handwashing facilities,86,94110
